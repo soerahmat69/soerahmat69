@@ -1,6 +1,6 @@
 <h3  align="center">Привет, добро пожаловать 🤡</h3>
 
-<h3 align="left">My stats:</h3>
+<!-- <h3 align="left">My stats:</h3> -->
 <div align="center">
 <img
   align="center"
