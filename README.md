@@ -6,8 +6,31 @@
   src="https://github-readme-stats.vercel.app/api?username=soerahmat69&show_icons=true&include_all_commits=true&theme=monokai"
 />
 
+
+<h3 align="left">My os:</h3>
+<p align="center">
+  <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://icons8.com/icon/fk75RbGHNtqW/windows-10"
+      alt="backbonejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <p align="center">
+  <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"
+      alt="backbonejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  </p>
+  
+  
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"
