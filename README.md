@@ -9,20 +9,19 @@
 
 <h3 align="left">My os:</h3>
 <p align="center">
-  <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
-      src="https://icons8.com/icon/fk75RbGHNtqW/windows-10"
-      alt="backbonejs"
+      src="https://img.icons8.com/nolan/64/windows-10.png"
+      alt="windows os"
       width="40"
       height="40"
     />
   </a>
-  <p align="center">
-  <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
+  <a href="https://archlinuxgui.in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"
-      alt="backbonejs"
-      width="40"
+      alt="archlinux gui os"
+      width="80"
       height="40"
     />
   </a>
