@@ -1,14 +1,16 @@
 <h3  align="center">Привет, добро пожаловать 🤡</h3>
 
 <h3 align="left">My stats:</h3>
+<div align="center">
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=soerahmat69&show_icons=true&include_all_commits=true&theme=monokai"
 />
+  </div>
 
 
 <h3 align="left">My os:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/nolan/64/windows-10.png"
@@ -29,7 +31,7 @@
   
   
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"
