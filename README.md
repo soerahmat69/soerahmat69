@@ -1,5 +1,6 @@
-### Привет, добро пожаловать
+## Привет, добро пожаловать 🤡
 
+<h3 align="left">My stats:</h3>
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=soerahmat69&show_icons=true&include_all_commits=true&theme=monokai"
