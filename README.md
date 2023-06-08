@@ -5,12 +5,6 @@
   src="https://github-readme-stats.vercel.app/api?username=soerahmat69&show_icons=true&include_all_commits=true&theme=monokai"
 />
 
-### Technology
-![CSS3](https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-3490dc?style=flat-square&logo=tailwindcss&logoColor=white)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
