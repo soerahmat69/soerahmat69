@@ -10,7 +10,7 @@
 
   
   
-<h3 align="left">Os, Languages and Tools:</h3>
+<h3 align="left">Os, Languages, and Tools:</h3>
 <p align="left">
    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
