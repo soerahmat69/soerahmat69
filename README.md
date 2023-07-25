@@ -316,15 +316,15 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="roni_andarsyah"
+      alt=""
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/surahmat-xixnine-473286274" target="blank"
+  <a href="https://www.linkedin.com/in/surahmat-surahmat-473286274" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="roni-andarsyah"
+      alt=""
       height="30"
       width="40"
   /></a>
@@ -332,7 +332,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="roniandarsyah"
+      alt="surahmat"
       height="30"
       width="40"
   /></a>
@@ -340,7 +340,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="roni.andarsyah"
+      alt="surahmat surahmat"
       height="30"
       width="40"
   /></a>
