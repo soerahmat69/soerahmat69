@@ -1,4 +1,4 @@
-<h3  align="center">Привет, добро пожаловать </h3>
+<h3  align="center">♡⸜(˶˃ ᵕ ˂˶)⸝♡ </h3>
 
 <!-- <h3 align="left">My stats:</h3> -->
 <div align="center">
