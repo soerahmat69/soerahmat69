@@ -23,22 +23,21 @@
   
 <h3 align="left">Os, Languages, and Tools:</h3>
 
-![JavaScript](https://img.icons8.com/nolan/64/windows-10.png)
 <p align="left">
    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
       src=""
       alt="windows os"
-      width="40"
-      height="40"
+      width="20"
+      height="20"
     />
   </a>
   <a href="https://archlinuxgui.in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"
       alt="archlinux gui os"
-      width="80"
-      height="40"
+      width="40"
+      height="20"
     />
   </a>
  
