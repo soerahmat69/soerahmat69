@@ -1,8 +1,4 @@
-<div  align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=soerahmat69&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-</div>
+
 
 <!-- <h3 align="left">My stats:</h3> -->
 <div align="center">
@@ -40,6 +36,11 @@
     />
   </a>
 </p>
+<div  >
+  
+  [![](https://visitcount.itsvg.in/api?id=soerahmat69&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+</div>
 <!-- <p align="left">
 <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/soerahmatx69" target="blank"
