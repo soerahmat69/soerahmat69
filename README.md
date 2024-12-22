@@ -8,7 +8,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soerahmat69&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
   </div>
 
-# 💿 Os: 
+## 💿 Os: 
 
 <p align="left">
    <a   href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
