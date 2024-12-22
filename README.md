@@ -26,7 +26,7 @@
 <p align="left">
    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
-      src=""
+      src="https://img.icons8.com/nolan/64/windows-10.png"
       alt="windows os"
       width="30"
       height="30"
@@ -36,7 +36,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"
       alt="archlinux gui os"
-      width="40"
+      width="60"
       height="20"
     />
   </a>
