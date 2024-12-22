@@ -24,7 +24,7 @@
 <h3 align="left">Os, Languages, and Tools:</h3>
 
 <p align="left">
-   <a style="background-color:red;" href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
+   <a   href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/nolan/64/windows-10.png"
       alt="windows os"
@@ -36,7 +36,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"
       alt="archlinux gui os"
-      width="70"
+      width="80"
       height="30"
     />
   </a>
