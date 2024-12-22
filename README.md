@@ -20,8 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  
-<h3 align="left">Os, Languages, and Tools:</h3>
+# 💿 Os: 
 
 <p align="left">
    <a   href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
