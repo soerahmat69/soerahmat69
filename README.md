@@ -22,10 +22,12 @@
   
   
 <h3 align="left">Os, Languages, and Tools:</h3>
+
+![JavaScript](https://img.icons8.com/nolan/64/windows-10.png)
 <p align="left">
    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
-      src="https://img.icons8.com/nolan/64/windows-10.png"
+      src=""
       alt="windows os"
       width="40"
       height="40"
