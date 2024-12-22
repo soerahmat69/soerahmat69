@@ -28,8 +28,8 @@
     <img
       src=""
       alt="windows os"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
     />
   </a>
   <a href="https://archlinuxgui.in/" target="_blank" rel="noreferrer">
@@ -40,7 +40,7 @@
       height="20"
     />
   </a>
- 
+</p>
 <!-- <p align="left">
 <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/soerahmatx69" target="blank"
